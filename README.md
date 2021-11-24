@@ -1,7 +1,7 @@
 <p align='center'>
 <br/>
 <br/>
-<img src="./img/tiva.png" />
+<img src="./img/tiva.png" width=400/>
 <br/>
 <br/>
 </p>
