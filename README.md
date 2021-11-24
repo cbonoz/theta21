@@ -68,7 +68,14 @@ The TiVa app is configured to encourage loan cycling, instead of returning loan 
 The TiVa app uses various techniques designed to provide engaging borrower video browsing and viewing experiences with the goal of persuading viewers to lend to borrowers. Categorized carousels help lenders browse through borrowers that they may have strong connections to, recommendations can be made based on urgent borrower needs or based on a lender's past browsing or lending history. 
 
 ## Screenshots
-
+<h3>Home</h3>
+<img src="./img/home.png" width=800/>
+<h3>Discover charities and businesses in need</h3>
+<img src="./img/discover.png" width=800/>
+<h3>Watch pitch videos from your TV display</h3>
+<img src="./img/watch.png" width=800/>
+<h3>Donate or lend to borrowers in Theta and TFuel</h3>
+<img src="./img/pay.png" width=800/>
 <h3>TiVa uses the Theta delivery sdk to stream borrower / entrepreneur videos in a TV app format</h3>
 <img src="./img/theta_delivery_sdk.png" width=800/>
 <h3>The Theta API is called to convert any mp4 into a streamable file</h3>
