@@ -16,6 +16,16 @@ Built for the Theta 2021 hackathon going after the General and Streaming Video c
 
 <b>Note this project is currently for demo purposes and would require additional implementation to be production ready.</b>
 
+<!-- 
+Demo script:
+
+* App
+* Theta wallet and QR code scan (record from device)
+* Github
+
+-->
+
+
 ## Introduction
 
 Largely to this point, the ThetaTV ecosystem has focused on gamers. TiVa expands the audience of streamers to include businesses and entreprenuers in need. The TiVa Android TV application brings the innovative charitable lending of Kiva and Theta streams into your living room and allows instant lending right from your remote or mobile device. 
