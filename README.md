@@ -9,8 +9,7 @@
 
 TiVa
 ---
-
-TiVa is a theta-powered TV application inspired by Kiva.org for giving microloans for individuals and businesses in need.
+TiVa is an android-powered TV app that extends Theta to enable borrowers and entrepreneurs to create their own streams and raise funds.
 
 Built for the Theta 2021 hackathon going after the General and Streaming Video categories.
 
@@ -27,6 +26,8 @@ Demo script:
 
 
 ## Introduction
+
+TiVa is a theta-powered TV application inspired by Kiva.org for giving microloans to individuals and businesses in need.
 
 Largely to this point, the ThetaTV ecosystem has focused on gamers. TiVa expands the audience of streamers to include businesses and entreprenuers in need. The TiVa Android TV application brings the innovative charitable lending of Kiva and Theta streams into your living room and allows instant lending right from your remote or mobile device. 
 
